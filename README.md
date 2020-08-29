@@ -42,7 +42,7 @@ It was possible to fetch animals by the following endpoints:
 ## Day 4  
   
 ### EX-0  
-File to be found here: [Link](https://github.com/MivleDK/3semFlow1Week1/tree/master/Week4Day4-EX-0/src/main/java/tester)  
+File to be found here: [Link](https://github.com/MivleDK/3semFlow1Week1/tree/master/Week1Day4-EX-0/src/main/java/tester)  
   
 All exercises were solved  
     
